@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-regexp-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.5-src.jar"/>
+	<classpathentry kind="lib" path="lib/junit_4/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/junit/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/last.fm-bindings.jar"/>
+	<classpathentry kind="lib" path="lib/swing-app-framework/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/swing-app-framework/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/swing-layout/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/shared"/>
+	<classpathentry kind="lib" path="lib/fmod/NativeFmodDesigner.jar"/>
+	<classpathentry kind="lib" path="lib/fmod/NativeFmodEx.jar"/>
+	<classpathentry kind="lib" path="/shared/dist/shared.jar"/>
+	<classpathentry kind="lib" path="lib/myid3.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
